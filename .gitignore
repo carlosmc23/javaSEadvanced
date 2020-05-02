@@ -1,5 +1,6 @@
 
 #Idea and Gradle
+build/
 .idea
 .gradle
 # Compiled class file
