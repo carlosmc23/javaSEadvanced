@@ -1,6 +1,4 @@
-package tema05;
-
-import tema05.Clase;
+package tema04.generics2;
 
 import java.util.ArrayList;
 import java.util.List;

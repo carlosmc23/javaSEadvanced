@@ -1,4 +1,4 @@
-package tema06;
+package tema04.generics3;
 
 import java.util.ArrayList;
 import java.util.List;

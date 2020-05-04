@@ -1,4 +1,4 @@
-package tema05;
+package tema04.generics2;
 
 public class Clase<K,T,V,E> {
 
